@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 # The Portfolio
 My portfolio hub - an organized README.md of what i do. That's all   :)
 
@@ -31,7 +33,8 @@ Section	What You'll Find
 🧰 Tech Stack	The languages, frameworks, and tools I use
 📬 Contact	The fastest ways to reach me
 
-<hr>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
+
 ### 📚 My Learning Map
 
     I learn in public — every course or resource below has a dedicated repository containing my notes, code exercises, and mini-projects.
@@ -53,7 +56,8 @@ Topic / Skill	Course or Resource	My Repository	Status
 <p> Status legend: ✅ Completed · 🔄 In Progress · ⏸️ On Hold · 📅 Planned </p>
 </div>
 
-<hr>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
+
 ### 🚀 Featured Projects
 Project Name One
 
@@ -78,7 +82,8 @@ HTML · CSS · JavaScript
 🔗 Live Demo
 📦 View more projects
 
-<hr>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
+
 ### 🧰 Tech Stack
 
 #### Languages
@@ -93,7 +98,8 @@ HTML · CSS · JavaScript
 #### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Tools" />
 
-<hr>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
+
 ### Contact
 Let's connect! I'm always open to collaborating, answering questions, or just talking tech.💼 Open to: Anything related to the world of AI.
 
@@ -105,6 +111,6 @@ Let's connect! I'm always open to collaborating, answering questions, or just ta
 
 Thanks for stopping by! If something here helped you, a ⭐ on the repo is always appreciated. 🤝
 
-⬆️ Back to top
+<p align="right" ><a href="readme-top"> Back to Top </a></p>
 
 Last updated: October 2026 · Maintained with ❤️ by Abhin P M
