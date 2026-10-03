@@ -28,14 +28,30 @@ A little about me:
 
 Navigate this hub:
 Section	What You'll Find
-📚 My Learning Map	Repositories tracking my courses, notes, and study journey
-🚀 Featured Projects	My best work, with live demos and write-ups
-🧰 Tech Stack	The languages, frameworks, and tools I use
-📬 Contact	The fastest ways to reach me
+<div>
+  <table>
+    <tr>
+      <th><a href="#Learnings">📚 My Learning Map	</a></th>
+      <td>Repositories tracking my courses, notes, and study journey</td>
+    </tr>
+    <tr>
+      <th><a href="#Projects">🚀 Featured Projects	</a></th>
+      <td>My best work, with live demos and write-ups</td>
+    </tr>
+    <tr>
+      <th><a href="#TechStack">🧰 Tech Stack  </a></th>
+      <td>The languages, frameworks, and tools I use</td>
+    </tr>
+    <tr>
+      <th><a href="#Contact">📬 Contact  </a></th>
+      <td>The fastest ways to reach me</td>
+    </tr>
+  </table>
+</div>
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 📚 My Learning Map
+### 📚 My Learning Map <a id="Learnings"></a>
 
     I learn in public — every course or resource below has a dedicated repository containing my notes, code exercises, and mini-projects.
 <div>
@@ -44,11 +60,13 @@ Topic / Skill	Course or Resource	My Repository	Status
   <tr>
     <th>Topic/Skill</th>
     <th>Learning Resource</th>
-    <th>My Repository Status</th>
+    <th>My Repository</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td>Python</td>
     <td>CS50P Harvard University (Free Course)</td>
+    <td></td>
     <td>🔄</td>
   </tr>
 </table>
@@ -58,7 +76,7 @@ Topic / Skill	Course or Resource	My Repository	Status
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects <a id="Projects"></a>
 Project Name One
 
 React · Node.js · PostgreSQL
@@ -84,7 +102,7 @@ HTML · CSS · JavaScript
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack <a id="TechStack"></a>
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=py,js,java" alt="Languages" />
@@ -100,7 +118,7 @@ HTML · CSS · JavaScript
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### Contact
+### Contact <a id="Contact"></a>
 Let's connect! I'm always open to collaborating, answering questions, or just talking tech.💼 Open to: Anything related to the world of AI.
 
 <p align="center">
