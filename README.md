@@ -111,6 +111,6 @@ Let's connect! I'm always open to collaborating, answering questions, or just ta
 
 Thanks for stopping by! If something here helped you, a ⭐ on the repo is always appreciated. 🤝
 
-<p align="right" ><a href="readme-top"> Back to Top </a></p>
+<p align="right"><a href="#readme-top"><img src="assets/back-to-top.svg" alt="Back to top" /></a></p>
 
 Last updated: October 2026 · Maintained with ❤️ by Abhin P M
