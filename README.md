@@ -6,14 +6,17 @@ My portfolio hub - an organized README.md of what i do. That's all   :)
 Aspiring AI/ML Developer · CS(MCA) Student · Problem Solver
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Welcome+to+my+portfolio+hub+🌟;lines=My+learning+journey+📚;lines=Curious+to+learn+AI/ML+💻" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Welcome+to+my+portfolio+hub+%F0%9F%8C%9F;My+learning+journey+%F0%9F%93%9A;Curious+to+learn+AI%2FML+%F0%9F%92%BB" alt="Typing animation" />
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinpm&label=Profile%20views&color=6c5ce7&style=flat" alt="Profile views" />
+</p>
 
 Visitors
 🧭 Introduction
 
     [!NOTE]This repository is my portfolio hub — the single, organized starting point for everything I build and learn on GitHub. No digging through my profile required.
-
+    
 A little about me:
 
     🎓 Background: Computer Science student.
@@ -27,15 +30,31 @@ Section	What You'll Find
 🚀 Featured Projects	My best work, with live demos and write-ups
 🧰 Tech Stack	The languages, frameworks, and tools I use
 📬 Contact	The fastest ways to reach me
-📚 My Learning Map
+
+<hr>
+### 📚 My Learning Map
 
     I learn in public — every course or resource below has a dedicated repository containing my notes, code exercises, and mini-projects.
-
+<div>
 Topic / Skill	Course or Resource	My Repository	Status
-Currently just started to learn python from CS20P Harvard course.
+<table>
+  <tr>
+    <th>Topic/Skill</th>
+    <th>Learning Resource</th>
+    <th>My Repository Status</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>CS50P Harvard University (Free Course)</td>
+    <td>🔄</td>
+  </tr>
+</table>
 
-Status legend: ✅ Completed · 🔄 In Progress · ⏸️ On Hold · 📅 Planned
-🚀 Featured Projects
+<p> Status legend: ✅ Completed · 🔄 In Progress · ⏸️ On Hold · 📅 Planned </p>
+</div>
+
+<hr>
+### 🚀 Featured Projects
 Project Name One
 
 React · Node.js · PostgreSQL
@@ -58,30 +77,31 @@ HTML · CSS · JavaScript
 
 🔗 Live Demo
 📦 View more projects
-🧰 Tech Stack
 
-Languages
+<hr>
+### 🧰 Tech Stack
 
-Languages
+#### Languages
+<img src="https://skillicons.dev/icons?i=py,js,java" alt="Languages" />
 
-Frontend
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
 
-Frontend
+#### Backend & Databases
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Backend and databases" />
 
-Backend & Databases
+#### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" alt="Tools" />
 
-Backend
-
-Tools & Platforms
-
-Tools
-📊 GitHub Stats
-My GitHub statsTop languages
-📬 Contact
-
+<hr>
+### Contact
 Let's connect! I'm always open to collaborating, answering questions, or just talking tech.💼 Open to: Anything related to the world of AI.
 
-EmailLinkedInGitHubPortfolio
+<p align="center">
+  <a href="mailto:mabhinp@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/abhinpm"><img src="https://img.shields.io/badge/LINKEDIN-2F67C1?style=for-the-badge" alt="LinkedIn" /></a>&emsp;
+  <a href="https://github.com/abhinpm"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&emsp;
+</p>
 
 Thanks for stopping by! If something here helped you, a ⭐ on the repo is always appreciated. 🤝
 
