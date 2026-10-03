@@ -1,11 +1,13 @@
-# my-portfolio
+# The Portfolio
 My portfolio hub - an organized README.md of what i do. That's all   :)
 
 
 👋 Hi, I'm Abhin P M
 Aspiring AI/ML Developer · CS(MCA) Student · Problem Solver
 
-Typing SVG
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=500&lines=Welcome+to+my+portfolio+hub+🌟;lines=My+learning+journey+📚;lines=Curious+to+learn+AI/ML+💻" alt="Typing animation" />
+</h1>
 
 Visitors
 🧭 Introduction
