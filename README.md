@@ -51,7 +51,8 @@ Section	What You'll Find
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 📚 My Learning Map <a id="Learnings"></a>
+### 📚 My Learning Map 
+<a id="Learnings"></a>
 
     I learn in public — every course or resource below has a dedicated repository containing my notes, code exercises, and mini-projects.
 <div>
@@ -76,7 +77,8 @@ Topic / Skill	Course or Resource	My Repository	Status
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 🚀 Featured Projects <a id="Projects"></a>
+### 🚀 Featured Projects 
+<a id="Projects"></a>
 Project Name One
 
 React · Node.js · PostgreSQL
@@ -102,7 +104,8 @@ HTML · CSS · JavaScript
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 🧰 Tech Stack <a id="TechStack"></a>
+### 🧰 Tech Stack 
+<a id="TechStack"></a>
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=py,js,java" alt="Languages" />
@@ -118,7 +121,8 @@ HTML · CSS · JavaScript
 
 <img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### Contact <a id="Contact"></a>
+### Contact 
+<a id="Contact"></a>
 Let's connect! I'm always open to collaborating, answering questions, or just talking tech.💼 Open to: Anything related to the world of AI.
 
 <p align="center">
